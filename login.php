@@ -52,7 +52,7 @@ session_start();
 <head>
 	<title>Login</title>
 </head>
-<body>
+<?php include('Layout/Header2.php'); ?>
 
 	<style type="text/css">
 	
@@ -97,5 +97,5 @@ session_start();
 			<a href="signup.php">Click to Signup</a><br><br>
 		</form>
 	</div>
-</body>
+<?php include('Layout/Footer.php'); ?>
 </html>

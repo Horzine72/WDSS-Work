@@ -1,12 +1,11 @@
-<?php
+//<?php
 
-$dbhost = "localhost";
-$dbuser = "root";
-$dbpass = "";
-$dbname = "g2gwebsite";
+//$dbhost = "localhost";
+////$dbpass = "";
+//$dbname = "g2gwebsite";
 
-if(!$con = mysqli_connect($dbhost,$dbuser,$dbpass,$dbname))
-{
+//if(!$con = mysqli_connect($dbhost,$dbuser,$dbpass,$dbname))
+//{
 
-	die("failed to connect!");
-}
+	//die("failed to connect!");
+//}
